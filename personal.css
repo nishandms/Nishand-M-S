@@ -1,0 +1,33 @@
+.backg {
+  background-color: purple;
+}
+.p1 {
+  text-shadow: 3px 3px 4px black;
+}
+.pbackgroun {
+  background-color:#2d5fe9;
+} 
+.shadow {
+  box-shadow:2px 4px 3px black;
+}
+.shadow2 {
+  box-shadow:4px 8px 6px black;
+}
+.ind {
+  width:100%;
+  position:fixed;
+  z-index:1;
+}
+.firstsec {
+  padding-top: 7em;
+}
+.back {
+  background-image: url("commun.jpg");
+}
+.alignm {
+  align-items:center;
+}
+.size {
+  height:50px;
+  width:100px;
+}
